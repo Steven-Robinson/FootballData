@@ -76,6 +76,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - http://www.rsssf.com/  The Rec.Sport.Soccer Statistics Foundation
 - https://www.mlssoccer.com/stats/ Major League Soccer (United States)
 - <https://github.com/statsbomb/open-data> - data is provided as JSON files exported from the StatsBomb Data API, 
+- [Touchline Wire Tactical API](https://touchlinewire.com/docs) - Free, unauthenticated Premier League tactical intelligence REST API with predicted starting XIs (89.1% audited accuracy), tactical formations, squad injury wire, and 2026/27 standings with live OpenAPI 3.0.3 spec and CORS support.
 
 ### Worth Investigating
 
@@ -86,3 +87,4 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 ### Apps
 
 - [Football Passing Networks](https://grafos-da-bola.netlify.app/)
+- [Touchline Wire](https://touchlinewire.com) - Premier League matchday starting XI predictor game, tactical pitch, and live availability intelligence platform.
